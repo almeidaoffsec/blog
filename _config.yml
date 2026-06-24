@@ -1,0 +1,19 @@
+title: "blog — almeidaoffsec"
+description: "Jornada de transição para segurança ofensiva: aprendizados, experimentos e reflexões."
+url: "https://blog.almeidaoffsec.com"
+
+collections:
+  blog:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: post
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

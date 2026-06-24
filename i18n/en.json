@@ -1,0 +1,10 @@
+{
+  "blog.hero.eyebrow":  "Blog",
+  "blog.hero.title":    "Learning in public",
+  "blog.hero.subtitle": "Learnings, experiments and reflections from the transition into offensive security. No hindsight filter — the real process, including the mistakes.",
+
+  "blog.listing.label": "Posts",
+  "blog.listing.empty": "No posts published yet. Coming soon.",
+
+  "blog.post.read":     "Read post →"
+}
