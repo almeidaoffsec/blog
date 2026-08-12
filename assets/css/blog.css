@@ -13,7 +13,7 @@
 
 .post-header {
   max-width: 720px;
-  margin-bottom: 3rem;
+  margin: 0 auto 3rem;
   padding-bottom: 2rem;
   border-bottom: 0.5px solid rgba(74, 158, 255, 0.12);
 }
@@ -49,6 +49,7 @@
 /* Prose — HTML gerado pelo kramdown */
 .prose {
   max-width: 720px;
+  margin: 0 auto;
   color: var(--color-text-primary);
   line-height: 1.8;
 }
@@ -141,7 +142,8 @@
 
 /* Post footer */
 .post-footer {
-  margin-top: 4rem;
+  max-width: 720px;
+  margin: 4rem auto 0;
   padding-top: 2rem;
   border-top: 0.5px solid rgba(74, 158, 255, 0.12);
 }
