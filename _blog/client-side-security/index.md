@@ -3,6 +3,7 @@ layout: post
 title: "Não existe segurança no Client Side"
 permalink: /client-side-security/
 date: 2026-08-11
+image: /client-side-security/client-side-auth-bypass.png
 category: "segurança"
 tags: ["Web", "Burp Suite", "Azure AD", "OWASP"]
 description: "Como a interceptação de uma resposta JSON expôs toda a estrutura administrativa de uma aplicação corporativa e por que controle de acesso no frontend é ilusão."
